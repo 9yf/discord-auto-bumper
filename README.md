@@ -4,6 +4,7 @@ A discord selfbot to auto bump a server with disboard.
 
 # Requirements
 [Python](https://python.org/)
+
 [Git](https://git-scm.com/)
 
 ## Once you have both, run install.bat, change the config in main.py and run.
